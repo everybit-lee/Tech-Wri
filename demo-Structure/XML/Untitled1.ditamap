@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title></title>
+    <topicref href="introduction.dita"/>
+    <topicref href="XML/xml.ditamap" format="ditamap">
+        <topicref href="XML/foundation_of_xml.dita"/>
+        <topicref href="XML/editing_a_xml_file.ditamap" format="ditamap">
+            <topicref href="XML/creating_an_xml_file.dita"/>
+            <topicref href="XML/creating_dtd_file.dita"/>
+            <topicref href="XML/schema_file.dita"/>
+        </topicref>
+        <topicref href="XML/base_concept_of_xsl_fo.ditamap" format="ditamap">
+            <topicref href="XML/example_of_xml_output_by_using_xsl_fo.dita"/>
+            <topicref href="XML/example_no2..dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="DITA/dita_using.ditamap" format="ditamap">
+        <topicref href="DITA/concepts_of_dita.dita"/>
+        <topicref href="DITA/creating_dita_topic.dita"/>
+        <topicref href="DITA/creating_dita_task.dita"/>
+        <topicref href="DITA/creating_dita_dimap.dita"/>
+        <topicref href="DITA/dita_publishing.dita"/>
+    </topicref>
+    <topicref href="Collaboration/collaboration.ditamap" format="ditamap">
+        <topicref href="Collaboration/collaboration_environment_and_tools.dita"/>
+        <topicref href="Collaboration/project_and_task_assignment.dita"/>
+        <topicref href="Collaboration/code_version_controling.dita"/>
+    </topicref>
+</map>
