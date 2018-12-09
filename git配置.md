@@ -6,7 +6,7 @@
 
 [下载git for windows](https://gitforwindows.org/)
 
-[安装客户端程序](https://tortoisegit.org/download/)
+[安装TortoiseGit客户端程序](https://tortoisegit.org/download/)
 这两个傻瓜式安装即可
 
 ----**课程教学软件下载请看 softbak 文件夹中说明文件**----
